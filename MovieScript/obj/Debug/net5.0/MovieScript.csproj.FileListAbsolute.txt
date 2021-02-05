@@ -1,0 +1,15 @@
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/MovieScript.deps.json
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/MovieScript.runtimeconfig.json
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/MovieScript.runtimeconfig.dev.json
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/MovieScript.dll
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/ref/MovieScript.dll
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/bin/Debug/net5.0/MovieScript.pdb
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.csprojAssemblyReference.cache
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.AssemblyInfoInputs.cache
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.AssemblyInfo.cs
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.csproj.CoreCompileInputs.cache
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.dll
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/ref/MovieScript.dll
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.pdb
+/Users/jameswood/RiderProjects/MovieScript/MovieScript/obj/Debug/net5.0/MovieScript.genruntimeconfig.cache
